@@ -3,13 +3,8 @@ import pandas as pd
 import os
 import re
 
-# username = "adm.happyenergy@gmail.com"
-# password = "mxtl agjv dcsn tcnv" #adm.happyenergy@gmail.com
-# _from = "engenhariahappysolar@gmail.com"
-
-username = "engenhariahappysolar@gmail.com"
-password = "jtpg hdvr pmat rtap" #engenhariahappysolar@gmail.com
-_from = 'noreplyportalgd@neoenergia.com'
+username = "adm.happyenergy@gmail.com"
+password = "mxtl agjv dcsn tcnv"
 
 # caminhos dos CSVs (mesma pasta do script)
 BASE_DIR = os.path.dirname(__file__)
